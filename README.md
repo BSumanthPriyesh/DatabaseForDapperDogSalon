@@ -1,4 +1,4 @@
-# DatabaseForDapperDogSalon
+# Database For Dapper Dog Salon
 
 • Created and maintained a database for the Dapper Dog Salon using Microsoft SQL Server 2019 to keep track of every
 business process that happens between the Salon which provides services that customers select for their dogs and
