@@ -1,4 +1,4 @@
-# Database For Dapper Dog Salon
+# Database For Dapper the Dog Salon
 
 Tech stack: Microsoft - SQL Server 2019, SSRS, and Visio
 
