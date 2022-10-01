@@ -7,8 +7,10 @@ purchasing products from supply stores to provide products and services to the d
 • Utilized the DDL and DML to store, clean, organize, and transform the data and aggregators, joins, nested queries,
 stored procedures, views, cursors, etc to analyze the data to answer business questions.
 
-* Added visio files used for data modeling in VISIO folder
+* Added visio files used for data modeling in VISIO directory.
 
-* Added the project's source files to the MDF and LDF folder.
+*Added reports generated using the SQL Server Design Tools (SSDT) to the Reports directory.
+
+* Added the project's source files to the MDF and LDF directory.
 
 * Added the screen captures in word documents to provide a snapshot of the queries used in this project.
