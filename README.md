@@ -1,6 +1,6 @@
 # Database For Dapper Dog Salon
 
-Tech stack: Microsoft - SQL Server 2019, SSDT, and Visio
+Tech stack: Microsoft - SQL Server 2019, SSRS, and Visio
 
 • Created and maintained a database for the Dapper Dog Salon using Microsoft SQL Server 2019 to keep track of every
 business process that happens between the Salon which provides services that customers select for their dogs and
@@ -13,7 +13,7 @@ stored procedures, views, cursors, etc to analyze the data to answer business qu
 
 * Added visio files used for data modeling in VISIO directory.
 
-* Added reports generated using the SQL Server Design Tools (SSDT) to the Reports directory.
+* Added reports generated using the SQL Server Reporting Services of SSDT to the Reports directory.
 
 * Added the project's source files to the MDF and LDF directory.
 
