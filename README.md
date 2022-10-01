@@ -11,10 +11,10 @@ stored procedures, views, cursors, etc to analyze the data to answer business qu
 
 • Please find the complete narrative of this project in the design document attached.
 
-* Added visio files used for data modeling in VISIO directory.
+* Added visio files used for data modeling in "Visio" directory.
 
-* Added reports generated using the SQL Server Reporting Services of SSDT to the Reports directory.
+* Added reports generated using the SQL Server Reporting Services of SSDT to the "Reports" directory.
 
-* Added the project's source files to the MDF and LDF directory.
+* Added the project's source files to the "MDF and LDF" directory.
 
 * Added the screen captures in word documents to provide a snapshot of the queries used in this project.
